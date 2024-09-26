@@ -19,5 +19,9 @@ namespace Lab1
 
         }
 
+        public void PrintDriverinfo()
+        {
+            Console.WriteLine("Driver Name:" + Name);
+        }
     }
 }

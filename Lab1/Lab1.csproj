@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Admin.cs" />
     <Compile Include="Driver.cs" />
+    <Compile Include="MakeTrip.cs" />
     <Compile Include="OwnVehicle.cs" />
     <Compile Include="PaymentMethod.cs" />
     <Compile Include="Program.cs" />

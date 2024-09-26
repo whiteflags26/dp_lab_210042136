@@ -6,14 +6,37 @@ using System.Threading.Tasks;
 
 namespace Lab1
 {
-    public class Trip
+    public abstract class Trip
     {
-        
+        protected PaymentMethod PreferredPayementMethod;
+        public Driver Driver { get; set; }
+        public abstract void PrintTripInfo();
+        public Trip(Driver PaymentMethod paymentMethod)
+        {
+            PreferredPayementMethod = paymentMethod;
+        }
     }
 
     public class BikeTrip : Trip
     { 
         public Rider Rider { get; set; }
-        public Driver Driver { get; set; }
+
+        public override void PrintTripInfo()
+        {
+            Rider.PrintRiderInfo();
+            PreferredPayementMethod.PrintPaymentInfo();
+        }
+    }
+
+    public class LuxuryRide : Trip
+    {
+        public Rider Rider { get; set; }
+
+        public override void PrintTripInfo()
+        {
+            Rider.PrintRiderInfo();
+            PreferredPayementMethod.PrintPaymentInfo();
+        }
+
     }
 }

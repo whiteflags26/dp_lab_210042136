@@ -13,21 +13,26 @@ namespace Lab1
         private string _id { get; set; }
         private string _location { get; set; }
         public decimal Rating { get; set; }
-        public PaymentMethod PreferredPayementMethod { get; set; }
+
+        public void PrintRiderInfo()
+        {
+            Console.WriteLine("Rider Namee: " + Name);
+        }
 
 
-        public void BookRide(Driver driver)
-        {
-            MakePayment();
-            RateDriver(driver);
-        }
-        public void MakePayment()
-        {
-            PreferredPayementMethod.Payment();
-        }
-        public void RateDriver(Driver driver)
-        {
 
-        }
+        //public void BookRide(Driver driver)
+        //{
+        //    MakePayment();
+        //    RateDriver(driver);
+        //}
+        //public void MakePayment()
+        //{
+        //    PreferredPayementMethod.Payment();
+        //}
+        //public void RateDriver(Driver driver)
+        //{
+
+        //}
     }
 }
