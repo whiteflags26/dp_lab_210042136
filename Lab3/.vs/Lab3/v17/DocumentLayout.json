@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab3\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab3\\iencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:iencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab3\\desencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:desencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab3\\caesarciphermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:caesarciphermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab3\\aesencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:aesencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaesarCipherMethod.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\CaesarCipherMethod.cs",
+              "RelativeDocumentMoniker": "CaesarCipherMethod.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\CaesarCipherMethod.cs",
+              "RelativeToolTip": "CaesarCipherMethod.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:27:10.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DesEncryptionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\DesEncryptionMethod.cs",
+              "RelativeDocumentMoniker": "DesEncryptionMethod.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\DesEncryptionMethod.cs",
+              "RelativeToolTip": "DesEncryptionMethod.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:23:53.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AesEncryptionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\AesEncryptionMethod.cs",
+              "RelativeDocumentMoniker": "AesEncryptionMethod.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\AesEncryptionMethod.cs",
+              "RelativeToolTip": "AesEncryptionMethod.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:16:06.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEncryptionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\IEncryptionMethod.cs",
+              "RelativeDocumentMoniker": "IEncryptionMethod.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\IEncryptionMethod.cs",
+              "RelativeToolTip": "IEncryptionMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:10:15.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\Encryption.cs",
+              "RelativeDocumentMoniker": "Encryption.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\Encryption.cs",
+              "RelativeToolTip": "Encryption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:06:24.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:58:21.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
