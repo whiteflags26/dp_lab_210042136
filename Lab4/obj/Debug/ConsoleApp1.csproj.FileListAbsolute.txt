@@ -1,0 +1,7 @@
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab3\\iencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\iencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:iencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab3\\desencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\desencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:desencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab3\\caesarciphermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\caesarciphermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:caesarciphermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab3\\aesencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\aesencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:aesencryptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F8EC1C1-FEE2-417E-B548-54483155F008}|Lab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,8 +62,7 @@
               "RelativeToolTip": "CaesarCipherMethod.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T05:27:10.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T05:27:10.426Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "DesEncryptionMethod.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T05:23:53.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T05:23:53.998Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "AesEncryptionMethod.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAA0AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T05:16:06.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T05:16:06.876Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "IEncryptionMethod.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T05:10:15.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T05:10:15.059Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T04:58:21.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T04:58:21.301Z"
             }
           ]
         }

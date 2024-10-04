@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|Lab4.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab4\\nocondinement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|Lab4.csproj|solutionrelative:nocondinement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\condinement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|solutionrelative:condinement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\whippedcream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|solutionrelative:whippedcream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|solutionrelative:sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|solutionrelative:beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\beveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|solutionrelative:beveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|solutionrelative:milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\condinementfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|solutionrelative:condinementfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\latte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|solutionrelative:latte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|solutionrelative:espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|solutionrelative:coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B46245-BAF8-4370-B4F3-170C30E8C497}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoCondinement.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\NoCondinement.cs",
+              "RelativeDocumentMoniker": "NoCondinement.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\NoCondinement.cs",
+              "RelativeToolTip": "NoCondinement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:26:57.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WhippedCream.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\WhippedCream.cs",
+              "RelativeDocumentMoniker": "WhippedCream.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\WhippedCream.cs",
+              "RelativeToolTip": "WhippedCream.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:26:12.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sugar.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Sugar.cs",
+              "RelativeDocumentMoniker": "Sugar.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Sugar.cs",
+              "RelativeToolTip": "Sugar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:25:25.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Milk.cs",
+              "RelativeDocumentMoniker": "Milk.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Milk.cs",
+              "RelativeToolTip": "Milk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:24:27.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Latte.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Latte.cs",
+              "RelativeDocumentMoniker": "Latte.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Latte.cs",
+              "RelativeToolTip": "Latte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:23:44.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Espresso.cs",
+              "RelativeDocumentMoniker": "Espresso.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Espresso.cs",
+              "RelativeToolTip": "Espresso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:23:06.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Coffee.cs",
+              "RelativeDocumentMoniker": "Coffee.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Coffee.cs",
+              "RelativeToolTip": "Coffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:18:50.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CondinementFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\CondinementFactory.cs",
+              "RelativeDocumentMoniker": "CondinementFactory.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\CondinementFactory.cs",
+              "RelativeToolTip": "CondinementFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:13:35.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BeverageFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\BeverageFactory.cs",
+              "RelativeDocumentMoniker": "BeverageFactory.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\BeverageFactory.cs",
+              "RelativeToolTip": "BeverageFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:12:34.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Condinement.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Condinement.cs",
+              "RelativeDocumentMoniker": "Condinement.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Condinement.cs",
+              "RelativeToolTip": "Condinement.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:08:15.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Beverage.cs",
+              "RelativeDocumentMoniker": "Beverage.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Beverage.cs",
+              "RelativeToolTip": "Beverage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:06:54.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\Lab4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:53:08.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
