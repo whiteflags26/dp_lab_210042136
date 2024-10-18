@@ -1,0 +1,7 @@
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab6\bin\Debug\lab6.exe.config
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab6\bin\Debug\lab6.exe
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab6\bin\Debug\lab6.pdb
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab6\obj\Debug\lab6.exe
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab6\obj\Debug\lab6.pdb

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab6\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab6\\epostalmailnotification\\epostalmailnotificationadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|solutionrelative:epostalmailnotification\\epostalmailnotificationadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab6\\epostalmailnotification\\epostalmailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|solutionrelative:epostalmailnotification\\epostalmailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab6\\regularnotifications\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|solutionrelative:regularnotifications\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab6\\regularnotifications\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|solutionrelative:regularnotifications\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab6\\regularnotifications\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4566583E-522E-4049-99F6-99A9DC8DCA8B}|lab6.csproj|solutionrelative:regularnotifications\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Services\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:15:14.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EpostalMailNotificationAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\EpostalMailNotification\\EpostalMailNotificationAdapter.cs",
+              "RelativeDocumentMoniker": "EpostalMailNotification\\EpostalMailNotificationAdapter.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\EpostalMailNotification\\EpostalMailNotificationAdapter.cs",
+              "RelativeToolTip": "EpostalMailNotification\\EpostalMailNotificationAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:14:11.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EpostalMailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\EpostalMailNotification\\EpostalMailNotification.cs",
+              "RelativeDocumentMoniker": "EpostalMailNotification\\EpostalMailNotification.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\EpostalMailNotification\\EpostalMailNotification.cs",
+              "RelativeToolTip": "EpostalMailNotification\\EpostalMailNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:13:08.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SMSNotification.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\RegularNotifications\\SMSNotification.cs",
+              "RelativeDocumentMoniker": "RegularNotifications\\SMSNotification.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\RegularNotifications\\SMSNotification.cs",
+              "RelativeToolTip": "RegularNotifications\\SMSNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:12:15.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\RegularNotifications\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "RegularNotifications\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\RegularNotifications\\EmailNotification.cs",
+              "RelativeToolTip": "RegularNotifications\\EmailNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:11:22.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\RegularNotifications\\INotification.cs",
+              "RelativeDocumentMoniker": "RegularNotifications\\INotification.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\RegularNotifications\\INotification.cs",
+              "RelativeToolTip": "RegularNotifications\\INotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:10:13.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:51:30.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
