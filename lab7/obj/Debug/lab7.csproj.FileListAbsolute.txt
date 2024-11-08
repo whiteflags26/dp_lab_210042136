@@ -1,0 +1,7 @@
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab7\bin\Debug\lab7.exe.config
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab7\bin\Debug\lab7.exe
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab7\bin\Debug\lab7.pdb
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab7\obj\Debug\lab7.exe
+C:\Users\mirsa\Documents\Lab\dp_lab_210042136\lab7\obj\Debug\lab7.pdb

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\socialmediafacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:socialmediafacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\adapter\\twitteradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:adapter\\twitteradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\adapter\\isocialmediaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:adapter\\isocialmediaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\adapter\\facebookadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:adapter\\facebookadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\api\\twitterapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:api\\twitterapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\api\\facebookapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:api\\facebookapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FacebookApi.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\API\\FacebookApi.cs",
+              "RelativeDocumentMoniker": "API\\FacebookApi.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\API\\FacebookApi.cs",
+              "RelativeToolTip": "API\\FacebookApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:42:45.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TwitterApi.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\API\\TwitterApi.cs",
+              "RelativeDocumentMoniker": "API\\TwitterApi.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\API\\TwitterApi.cs",
+              "RelativeToolTip": "API\\TwitterApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:05:15.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SocialMediaFacade.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\SocialMediaFacade.cs",
+              "RelativeDocumentMoniker": "SocialMediaFacade.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\SocialMediaFacade.cs",
+              "RelativeToolTip": "SocialMediaFacade.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:47:39.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacebookAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\Adapter\\FacebookAdapter.cs",
+              "RelativeDocumentMoniker": "Adapter\\FacebookAdapter.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\Adapter\\FacebookAdapter.cs",
+              "RelativeToolTip": "Adapter\\FacebookAdapter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:46:59.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TwitterAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\Adapter\\TwitterAdapter.cs",
+              "RelativeDocumentMoniker": "Adapter\\TwitterAdapter.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\Adapter\\TwitterAdapter.cs",
+              "RelativeToolTip": "Adapter\\TwitterAdapter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:46:30.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISocialMediaAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\Adapter\\ISocialMediaAdapter.cs",
+              "RelativeDocumentMoniker": "Adapter\\ISocialMediaAdapter.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\Adapter\\ISocialMediaAdapter.cs",
+              "RelativeToolTip": "Adapter\\ISocialMediaAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:45:49.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:42:01.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
