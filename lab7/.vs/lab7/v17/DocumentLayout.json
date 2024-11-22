@@ -7,27 +7,27 @@
       "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:socialmediafacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\adapter\\twitteradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\adapter\\twitteradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:adapter\\twitteradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\adapter\\isocialmediaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\adapter\\isocialmediaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:adapter\\isocialmediaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\adapter\\facebookadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\adapter\\facebookadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:adapter\\facebookadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\api\\twitterapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\api\\twitterapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:api\\twitterapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\api\\facebookapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\api\\facebookapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:api\\facebookapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7943BF78-7B40-4A0F-A74A-C95592E6C489}|lab7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,8 +51,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T05:42:45.932Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "API\\TwitterApi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:05:15.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T06:05:15.262Z"
             },
             {
               "$type": "Document",
@@ -106,8 +104,7 @@
               "RelativeToolTip": "Adapter\\FacebookAdapter.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T05:46:59.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T05:46:59.569Z"
             },
             {
               "$type": "Document",
@@ -119,8 +116,7 @@
               "RelativeToolTip": "Adapter\\TwitterAdapter.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T05:46:30.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T05:46:30.965Z"
             },
             {
               "$type": "Document",
@@ -132,8 +128,7 @@
               "RelativeToolTip": "Adapter\\ISocialMediaAdapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T05:45:49.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T05:45:49.358Z"
             },
             {
               "$type": "Document",
@@ -145,8 +140,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T05:42:01.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T05:42:01.643Z"
             }
           ]
         }
