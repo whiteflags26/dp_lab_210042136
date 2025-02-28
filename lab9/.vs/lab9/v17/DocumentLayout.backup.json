@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\nextprayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:nextprayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\currentwaqt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\currentwaqt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:currentwaqt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\prayertimestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\nextprayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:nextprayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\prayertimestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:prayertimestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\waqttimestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\waqttimestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:waqttimestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\currenttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\currenttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:currenttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\prayertimesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\prayertimesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:prayertimesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\timezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\timezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:timezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\iwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\iwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:iwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|c:\\users\\mirsa\\documents\\lab\\dp_lab_210042136\\lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47BE1601-B1E0-4522-B754-32ED98161381}|lab9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,20 +74,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrentWaqt.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\CurrentWaqt.cs",
+              "RelativeDocumentMoniker": "CurrentWaqt.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\CurrentWaqt.cs",
+              "RelativeToolTip": "CurrentWaqt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:29:27.783Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:59:29.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Mediator.cs",
               "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\Mediator.cs",
               "RelativeDocumentMoniker": "Mediator.cs",
               "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\Mediator.cs",
               "RelativeToolTip": "Mediator.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAqwDQAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:31:48.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:31:48.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NextPrayer.cs",
               "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\NextPrayer.cs",
               "RelativeDocumentMoniker": "NextPrayer.cs",
@@ -95,25 +119,11 @@
               "RelativeToolTip": "NextPrayer.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAqwBcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:31:08.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:31:08.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CurrentWaqt.cs",
-              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\CurrentWaqt.cs",
-              "RelativeDocumentMoniker": "CurrentWaqt.cs",
-              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\CurrentWaqt.cs",
-              "RelativeToolTip": "CurrentWaqt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:29:27.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PrayerTimesTable.cs",
               "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\PrayerTimesTable.cs",
               "RelativeDocumentMoniker": "PrayerTimesTable.cs",
@@ -121,12 +131,11 @@
               "RelativeToolTip": "PrayerTimesTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:28:28.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:28:28.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "WaqtTimesTable.cs",
               "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\WaqtTimesTable.cs",
               "RelativeDocumentMoniker": "WaqtTimesTable.cs",
@@ -134,12 +143,11 @@
               "RelativeToolTip": "WaqtTimesTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:26:17.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:26:17.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CurrentTime.cs",
               "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\CurrentTime.cs",
               "RelativeDocumentMoniker": "CurrentTime.cs",
@@ -147,12 +155,11 @@
               "RelativeToolTip": "CurrentTime.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAjwBoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:24:48.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:24:48.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PrayerTimeSettings.cs",
               "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\PrayerTimeSettings.cs",
               "RelativeDocumentMoniker": "PrayerTimeSettings.cs",
@@ -160,12 +167,11 @@
               "RelativeToolTip": "PrayerTimeSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:23:37.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:23:37.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TImezone.cs",
               "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\TImezone.cs",
               "RelativeDocumentMoniker": "TImezone.cs",
@@ -173,12 +179,11 @@
               "RelativeToolTip": "TImezone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:22:52.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:22:52.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Location.cs",
               "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\Location.cs",
               "RelativeDocumentMoniker": "Location.cs",
@@ -186,12 +191,11 @@
               "RelativeToolTip": "Location.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:21:18.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:21:18.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IWidget.cs",
               "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\IWidget.cs",
               "RelativeDocumentMoniker": "IWidget.cs",
@@ -199,21 +203,7 @@
               "RelativeToolTip": "IWidget.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:19:52.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mirsa\\Documents\\Lab\\dp_lab_210042136\\lab9\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T04:59:29.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:19:52.175Z"
             }
           ]
         }
